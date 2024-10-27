@@ -305,7 +305,7 @@ display:table;
 .entry:after {
 clear:both;
 }
-![Screenshot (259)](https://github.com/user-attachments/assets/1d9b427d-35f1-46d1-80ae-9a016bdc3962)
+![Screenshot (269)](https://github.com/user-attachments/assets/7fed3e29-b371-45db-a8d2-7fd2dee0d201)
 
 7. Menambahkan Content Artikel
    <hr class="divider" />
@@ -344,7 +344,8 @@ clear:both;
     .entry .right-img {
     float: right;
     }
-   ![Screenshot (261)](https://github.com/user-attachments/assets/2c72f170-b4b3-4152-81d0-23f43898f1ba)
+   ![Screenshot (270)](https://github.com/user-attachments/assets/1597025c-358d-413e-807a-4fe448536290)
+
 Pertanyaan dan Tugas
 1. Tambahkan Layout untuk menu About
 => buat single layout yang berisi deskripsi, portfolio, dll
